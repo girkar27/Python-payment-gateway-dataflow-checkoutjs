@@ -1,0 +1,23 @@
+{
+  "Amount": "1.00", 
+  "SALT": "1496899267KMOWJE", 
+  "currency": "INR", 
+  "customerMobNumber": "1234567890", 
+  "email": "test@test.com",  
+  "mrctCode": "T3348", 
+  "returnUrl": "http://127.0.0.1:5000/response", 
+  "scheme": "Test",
+
+  "offlineverification":
+  {
+    "identifier": "1516163889655",
+    "dateTime": "17-01-2018"
+  },
+
+  "refund":
+  {
+    "refund_amount": "3",
+    "dateTime": "17-01-2017",
+    "token": "439937277"
+  }
+}
